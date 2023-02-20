@@ -1,0 +1,5 @@
+la empresa de seguros TK-U, ubicada en la ciudad de JEDHA, realiza cientos de cotizaciones a diario para sus clientes. El inconveniente que se tiene es que se realiza de forma manual y se pierde mucha base de datos y tiempo , se esta perdienod una gran cantidad de clientes con esta desactualizacion de datos en linea.
+lo prinmero que se tubo que hacer fue pedir los datos de el asegurado y saber si el asegurado queria inluir algun otro en la misma prima del seguro.
+como segundo paso es poder obtener mas informacion del asegurado ya ahora con los datos proporcionados anterior de el hijo, conyugue y demas. preguntar por propiedades y el salario del asegurado para asi poder calcuar cuanto de inversicion iba hacer.
+es asi como se tiene los datos de la persona a segurar, ya lo consiguiente seria ingresar los datos y que nuestra pagina pueda resovler el problema sigueiendo unsa intruciones puestas con nuestro codigo.
+
